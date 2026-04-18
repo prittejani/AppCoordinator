@@ -38,7 +38,7 @@ Built on top of `NavigationStack` and `NavigationPath` — scales from a simple 
 3. Paste the URL:
 
 ```
-https://github.com/YOUR_USERNAME/AppCoordinator
+https://github.com/prittejani/AppCoordinator
 ```
 
 4. Select **Up to Next Major Version** → `1.0.0`
@@ -48,7 +48,7 @@ https://github.com/YOUR_USERNAME/AppCoordinator
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/YOUR_USERNAME/AppCoordinator", from: "1.0.0")
+    .package(url: "https://github.com/prittejani/AppCoordinator", from: "1.0.0")
 ],
 targets: [
     .target(
